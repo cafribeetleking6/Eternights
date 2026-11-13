@@ -193,4 +193,4 @@ This repository serves as the official landing page for **Eternights**. The soft
 **Get the most recent version of Eternights today!**
 
 ---
-**Last updated:** 2026-11-13 04:42:14 UTC
+**Last updated:** 2026-11-13 12:47:17 UTC
